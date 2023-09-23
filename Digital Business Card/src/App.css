@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: white;
+}
+
+.outer-container {
+  width: 81em;
+  height: 117.75em;
+  background: #1C1C1C;
+  padding: 1em;
+}
+
+.inner-container {
+  width: 550px;
+  height: 60.25em;
+  background: #23252C;
+  padding: 2.75em 7.25em;
+}

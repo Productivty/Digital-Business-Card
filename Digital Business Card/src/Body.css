@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.my-body {
+    width: 19.8125em;
+    height: 28.9375em;
+    background: #1A1B21;
+    margin: 0;
+}
+
+.info-me {
+    text-align: center;
+    padding-top: 1em;
+}
+
+.my-name {
+    color: #FFFFFF ;
+    margin-bottom: 0.1em;
+}
+
+.profession {
+    color: #F3BF99;
+    margin-top: 0;
+}
+
+.website-name {
+    color: #F5F5F5;
+}
+
+
+
+.link {
+    display: flex;
+    justify-content: space-evenly;
+    column-gap: 1em;
+    padding: 0 1em;
+    margin-top: 1em;
+    text-decoration: none;
+}
+
+button {
+    display: flex;
+    padding: 0.4em 1em;
+    border-radius: 0.5em;
+    cursor: pointer;
+    gap: 0.5em;
+}
+
+.email {
+    gap: 5em;
+}
+
+.linked-in{
+    background: #5093E2;
+    color: #FFFFFF;
+}
+
+button {
+    width: 7.1875em;
+}
+
+.activities {
+    margin-top: 2.5em;
+    padding: 0 2.5em;
+}
+
+.about, .interests {
+   color: #F5F5F5; 
+   margin-top: 0.5em;
+   margin-bottom: 0.5em;
+}
+
+.activities > p {
+    color: #DCDCDC;
+    margin-bottom: 1.5em;
+    font-weight: 100;
+    font-size: 0.85rem;
+}
+
+
+
